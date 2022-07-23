@@ -16,6 +16,8 @@ Curatorial colleagues have been instrumental in creating resources and learning 
 Creative Economy Engagement Fellows (Abi L. Glen, Jennifer Wexler, Cat Cooper and Melanie Pitkin) generated 3d models, web resources and audio visual materials which are deployed here in conjunction with ThinkSee3d and Museum in a Box.
 As part of our AHRC funded Linking Islands of Data network, various international partners collaborated on linked open data and visualisation.
 
-We have various external contributors, for example Rainer Simon, Tom Elliot, Alexa Steinbrück, Philo van Kemanade and work with Cambridge Digital Humanities and Olamalu. 
+We have had help from amazing external contributors, for example Rainer Simon, Tom Elliot, Alexa Steinbrück, Philo van Kemanade and work with Cambridge Digital Humanities (Leo Impett and Andy Corrigan), Studio24 and Olamalu. 
 
-Please do fork, remix or reuse the code we have created. 
+Please do fork, remix or reuse the code we have created.
+
+DEJP July 2022
