@@ -8,7 +8,7 @@ The Fitzwilliam Museum's Digital output was based around 3 pillars of open compu
 2. Open Science 
 3. Open Licenses
 
-We strived to create software and datasets that were liberally licensed eg MIT/GPL for software and CC-BY/CC0 for metadata. Images are more strictly controlled by the University of Cambridge and are CC-BY-NC-SA-ND. 
+We strived to create software and datasets that were liberally licensed eg MIT/GPL for software and CC 0 for metadata. Images are more strictly controlled by the University of Cambridge and are CC BY-NC-ND. 
 
 The majority of the software and website code in these repositories has been written by Daniel Pett, with some input from team members (Georgina Doji, Oliver Warren, and Henry Evans.)
 
